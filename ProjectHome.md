@@ -1,0 +1,1 @@
+Handle the parsing of the browser name, version and operating system from a Browser's User Agent header.
